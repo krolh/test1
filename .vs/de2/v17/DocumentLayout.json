@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\de2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|d:\\.net\\de2\\de2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|solutionrelative:de2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|d:\\.net\\de2\\de2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|solutionrelative:de2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|d:\\.net\\de2\\de2\\sanphamthanhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE9C901-EFA5-44EC-81D8-ABA66FBAE068}|de2\\de2.csproj|solutionrelative:de2\\sanphamthanhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamThanhLy.cs",
+              "DocumentMoniker": "D:\\.Net\\de2\\de2\\SanPhamThanhLy.cs",
+              "RelativeDocumentMoniker": "de2\\SanPhamThanhLy.cs",
+              "ToolTip": "D:\\.Net\\de2\\de2\\SanPhamThanhLy.cs",
+              "RelativeToolTip": "de2\\SanPhamThanhLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:13:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\.Net\\de2\\de2\\SanPham.cs",
+              "RelativeDocumentMoniker": "de2\\SanPham.cs",
+              "ToolTip": "D:\\.Net\\de2\\de2\\SanPham.cs",
+              "RelativeToolTip": "de2\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:00:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\de2\\de2\\Program.cs",
+              "RelativeDocumentMoniker": "de2\\Program.cs",
+              "ToolTip": "D:\\.Net\\de2\\de2\\Program.cs",
+              "RelativeToolTip": "de2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:59:36.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
